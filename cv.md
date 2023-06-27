@@ -8,6 +8,7 @@
 
 **Phone:** +49 176 92630141<br>
 **Email:** igorkuznecov@gmx.de<br>
+**Discord** @igorberlin <br>
 [LinkedIn](https://www.linkedin.com/in/igor-kuznecov-6b784316b/)<br>
 [GitHub](https://github.com/Igorberlin)<br>
 
@@ -51,6 +52,43 @@ _Teamwork, Reliability, Diligence, Punctuality, Flexibility_
 ### My Portfolio
 
 [https://Igorberlin.github.io/My_Portfolio](https://Igorberlin.github.io/My_Portfolio)
+
+---
+
+### Employment History
+
+##### App Developer, Scopeland Technology GmbH
+
+December 2022 - April 2023 | Berlin, Germany
+
+-   Worked on website adaptation, including site adaptation for disabled people, Processed tasks in Jira and Mantis
+-   Java functions written for interfaces, Developed an ER-Diagram for the application
+-   Implemented website program logic, Created documentation for the application
+-   Worked in the testing department (errors reproduction and documentation)
+-   Handled tickets related to error detection from users and developers, Participated in daily team calls
+
+---
+
+### Courses:
+
+##### Full stack web development and testing, TelRan GmbH
+
+May 2021 — November 2021 | Berlin, Germany
+
+-   Learning computer science basics, Сreating mini projects using CSS, JavaScript, and React.js, such as a todo list, photo album, food order page, phone book page, popup windows, and form validation
+-   Creating test scripts
+-   Working with APIs
+-   Working on a final project that involves functions such as authorization,
+-   profile editing, commenting on posts, and rating posts using HTML, CSS, JavaScript, and utilizing the React library
+-   Producing test documentation and result reports
+
+#### Professional English with preparation for the external language examination VPET Level 1.
+
+July 2022 - Oktober 2022 | Berlin, Germany
+
+##### RS Schools Course «JavaScript/Front-end. Stage 0»
+
+Juni 2023- now | Berlin, Germany
 
 ---
 
