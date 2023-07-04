@@ -59,16 +59,11 @@
                 <h2>Code example</h2>
                 <p class="text-justify">Here is a code snippet from my graduation project, where a list of dog cards is being rendered on the website depending on the category the user is currently in, either “Lost Animals” or “Found Animals”</p>
                 <code class="main-code">"
-                    {pathname.slice(1) === "lost"
-                    ? pets.petsArr.map((pet, index) => (
-                    <PetItem key={index} pet={pet} index={pet.id} />
-                    ))
-                    : pets.petsArr.map((pet, index) => (
-                    <PetItem key={index} pet={pet} index={pet.id} />
-                    ))
-                    }"
+                    const onChangeHandler = ({ target }) => {
+                    loadFile(target.value);
+                    };"
                 </code>
-                <p><a href="https://github.com/Igorberlin/ProjectProPets/blob/main/client/src/modules/components/pets/PetsList.js" target="_blank">All code is here</a></p>
+                <p><a href="https://github.com/Igorberlin/ProjectProPets/blob/main/client/src/modules/components/pets/AddLostPost.js" target="_blank">All code is here</a></p>
             </div>
             <div class="section" id="portfolio">
                 <h2>My Portfolio</h2>
