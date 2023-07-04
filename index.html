@@ -36,16 +36,16 @@
                 <h2>Front End Engineer</h2>
             </div>
             <div class="section" id="contacts">
-                <h2>Contacts</h2>
+                <h2>Contacts:</h2>
                 <h3>
                     Phone: +49 176 92630141 <br>
                     Email: igorkuznecov@gmx.de <br>
                     Discord: @igorberlin<br>
-                    <a href="https://www.linkedin.com/in/igor-kuznecov-6b784316b/" target="_blank">LinkedIn</a><br>
-                    <a href="https://github.com/Igorberlin" target="_blank">GitHub</a>
+                    <a class="no-dekoration" href="https://www.linkedin.com/in/igor-kuznecov-6b784316b/" target="_blank">LinkedIn</a><br>
+                    <a class="no-dekoration " href="https://github.com/Igorberlin" target="_blank">GitHub</a>
                 </h3>
                 <br>
-                <p>I am a front-end developer with proficiency in core web languages such as HTML, CSS, and JavaScript. I have experience building web applications with JavaScript libraries such as React.js, Next.js, Redux, and React Router Dom. In addition, I am proficient in working with Low Code Platforms and have basic knowledge of both manual and automated testing. Alongwith my technical skills, I possess a deep understanding of responsive design, API integration, version control using Git/GitHub, and working with SQL databases. My background in computerscience fundamentals further strengthens my ability to develop efficient and robust applications</p>
+                <p class="text-justify">I am a front-end developer with proficiency in core web languages such as HTML, CSS, and JavaScript. I have experience building web applications with JavaScript libraries such as React.js, Next.js, Redux, and React Router Dom. In addition, I am proficient in working with Low Code Platforms and have basic knowledge of both manual and automated testing. Alongwith my technical skills, I possess a deep understanding of responsive design, API integration, version control using Git/GitHub, and working with SQL databases. My background in computerscience fundamentals further strengthens my ability to develop efficient and robust applications</p>
             </div>
             <div class="section" id="tech-skills">
                 <h2>Tech Skills</h2>
@@ -57,8 +57,8 @@
             </div>
             <div class="section" id="code">
                 <h2>Code example</h2>
-                <p>Here is a code snippet from my graduation project, where a list of dog cards is being rendered on the website depending on the category the user is currently in, either “Lost Animals” or “Found Animals”</p>
-                <code>"
+                <p class="text-justify">Here is a code snippet from my graduation project, where a list of dog cards is being rendered on the website depending on the category the user is currently in, either “Lost Animals” or “Found Animals”</p>
+                <code class="main-code">"
                     {pathname.slice(1) === "lost"
                     ? pets.petsArr.map((pet, index) => (
                     <PetItem key={index} pet={pet} index={pet.id} />
@@ -114,12 +114,15 @@
     </main>
     <footer class="footer">
         <div class="container">
-            <div><a href="https://github.com/Igorberlin" target="_blank">@Igorberlin</a><br>
+            <div><a class="white-color no-dekoration" href="https://github.com/Igorberlin" target="_blank">@Igorberlin</a><br>
             </div>
             <div>
-                <p>© 2023 Igor Kuznecov</p>
+                <p class="white-color">© 2023 Igor Kuznecov</p>
             </div>
-            <div class="footer-school-avatar"><a href="https://rs.school/js/" target="_blank"></a></div>
+            <a href="https://rs.school/js/" target="_blank">
+                <div class="footer-school-avatar"></div>
+            </a>
+        </div>
         </div>
     </footer>
 </body>
